@@ -12,10 +12,9 @@
 ```javascript
 const caio = {
   tools: [Linux, Wireshark, SIEM, SOAR, EDR, XDR],
-  architecture: ["Active Directory", "Microsoft 365", "Microsoft Sentinels"],
  {
                       },
- top "30" brazil lets defend 🏆
+ top 30 best scorers on the letsdefend defense platform 🏆
 }
 ```
 
