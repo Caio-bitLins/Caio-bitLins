@@ -3,7 +3,7 @@
 <img align='right' src="https://media.tenor.com/psQzFHIko4MAAAAe/study-anime.png" width="230">
 <p><em>SOC Junior Analyst </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"
 
-[![Linkedin: caiolins](https://img.shields.io/badge/-caiolins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-lins-090/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: caiolins](https://img.shields.io/badge/-caiolins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-lins-090/)](https://www.linkedin.com/in/caio-lins090/)
 [![GitHub Caio](https://img.shields.io/github/followers/caio?label=follow&style=social)](https://github.com/Caio-bitLins)
 
 
