@@ -14,7 +14,7 @@ const caio = {
   tools: [Linux, Wireshark, SIEM, SOAR, EDR, XDR],
  {
                       },
- top 28 best scorers brazil on the letsdefend defense platform 🏆
+ top 27 best scorers brazil on the letsdefend defense platform 🏆
 }
 ```
 
